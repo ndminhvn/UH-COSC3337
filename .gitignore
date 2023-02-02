@@ -18,6 +18,9 @@ Syllabus/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# generated html files
+**/*.html
+
 # microsoft office
 **/*.pptx
 **/*.docx
