@@ -1,7 +1,19 @@
+# powerpoint slides
 Weekly lectures/
 Syllabus/
+
+# zip files
 *.zip
 **/*.zip
+
+# system files
 .DS_Store
 **/.DS_Store
+
+# local vscode settings
 .vscode/
+
+# notebook checkpoints
+**/*.ipynb_checkpoints/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
