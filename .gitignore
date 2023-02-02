@@ -1,0 +1,7 @@
+Weekly lectures/
+Syllabus/
+*.zip
+**/*.zip
+.DS_Store
+**/.DS_Store
+.vscode/
