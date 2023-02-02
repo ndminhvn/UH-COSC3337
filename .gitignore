@@ -17,3 +17,8 @@ Syllabus/
 **/*.ipynb_checkpoints/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# microsoft office
+**/*.pptx
+**/*.docx
+**/*.xlsx
