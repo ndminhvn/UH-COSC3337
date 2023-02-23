@@ -21,6 +21,9 @@ Syllabus/
 # generated html files
 **/*.html
 
+# Cheat sheets
+/Exam_Cheat_Sheets/
+
 # microsoft office
 **/*.pptx
 **/*.docx
